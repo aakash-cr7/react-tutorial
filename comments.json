@@ -7,16 +7,11 @@
     {
         "text": "React is *great*!",
         "id": 1420070400000,
+        "author": "Lol"
+    },
+    {
+        "text": "s is *great*!",
+        "id": 14200702400000,
         "author": "Paul O\u2019Shannessy"
     },
-    {
-        "text": "asd",
-        "id": 1469351890945,
-        "author": "asd"
-    },
-    {
-        "text": "asdas",
-        "id": 1469351897200,
-        "author": "asdsa"
-    }
 ]
